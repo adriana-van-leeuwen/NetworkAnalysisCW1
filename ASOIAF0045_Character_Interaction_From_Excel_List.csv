@@ -1,0 +1,525 @@
+,source,target,value
+0,Will ,Cletus ,6
+1,Will ,Hizdahr ,3
+2,Mance ,Jon ,7
+3,Mance ,Stannis ,8
+4,Mance ,Rayder ,20
+5,Mance ,Melisandre ,3
+6,Mance ,Tormund ,6
+7,Mance ,Val ,4
+8,Robb ,Jon ,7
+9,Robb ,Rickon ,3
+10,Robb ,Stark ,9
+11,Robb ,Bran ,10
+12,Jon ,Eddard ,4
+13,Jon ,Arya ,4
+14,Jon ,Cersei ,3
+15,Jon ,Jaime ,3
+16,Jon ,Aemon ,4
+17,Jon ,Stannis ,17
+18,Jon ,Donal ,3
+19,Jon ,Bowen ,7
+20,Jon ,Clydas ,5
+21,Jon ,Stark ,4
+22,Jon ,Snow ,105
+23,Jon ,Baratheon ,4
+24,Jon ,Arryn ,11
+25,Jon ,Marsh ,7
+26,Jon ,Bran ,5
+27,Jon ,Pyp ,3
+28,Jon ,Melisandre ,5
+29,Jon ,Ygritte ,5
+30,Jon ,Tollett ,3
+31,Jon ,Connington ,27
+32,Jon ,Dolorous Edd ,5
+33,Jon ,Tormund ,11
+34,Jon ,Val ,5
+35,Jon ,Tom ,3
+36,Jon ,Alys ,4
+37,Jon ,Satin ,8
+38,Jon ,Owen ,5
+39,Jon ,Emmett ,3
+40,Jon ,Jack ,4
+41,Jon ,Giantsbane ,4
+42,Jon ,Horse ,4
+43,Jon ,Iron Emmett ,3
+44,Jon ,Leathers ,6
+45,Jon ,Ned ,3
+46,Jon ,Long ,4
+47,Jon ,Pinchface ,3
+48,Eddard ,Stark ,17
+49,Theon ,Rodrik ,3
+50,Theon ,Arya ,4
+51,Theon ,Jeyne ,3
+52,Theon ,Greyjoy ,14
+53,Theon ,Bolton ,3
+54,Theon ,Ramsay ,7
+55,Robert ,Cersei ,8
+56,Robert ,Rhaegar ,3
+57,Robert ,Balon ,4
+58,Robert ,Mya ,5
+59,Robert ,Stark ,5
+60,Robert ,Baratheon ,14
+61,Robert ,Arryn ,6
+62,Rickon ,Bran ,6
+63,Catelyn ,Stark ,5
+64,Catelyn ,Tully ,3
+65,Arya ,Roose ,3
+66,Arya ,Stark ,6
+67,Arya ,Bran ,3
+68,Arya ,Ramsay ,3
+69,Arya ,Umma ,5
+70,Sansa ,Lysa ,3
+71,Sansa ,Jaime ,4
+72,Sansa ,Joffrey ,3
+73,Sansa ,Petyr ,4
+74,Sansa ,Royce ,3
+75,Sansa ,Stark ,18
+76,Sansa ,Brienne ,3
+77,Aerys ,Rhaegar ,4
+78,Aerys ,Tywin ,6
+79,Aerys ,Targaryen ,5
+80,Hoster ,Tully ,3
+81,Pycelle ,Jaime ,3
+82,Pycelle ,Harys ,4
+83,Pycelle ,Tyrell ,3
+84,Pycelle ,Swyft ,3
+85,Brynden ,Tully ,6
+86,Lysa ,Petyr ,3
+87,Lysa ,Nestor ,3
+88,Lysa ,Arryn ,3
+89,Lysa ,Tully ,4
+90,Cersei ,Tommen ,9
+91,Cersei ,Jaime ,5
+92,Cersei ,Stannis ,3
+93,Cersei ,Mace ,3
+94,Cersei ,Margaery ,9
+95,Cersei ,Kevan ,4
+96,Cersei ,Baratheon ,3
+97,Cersei ,Lannister ,13
+98,Cersei ,Tyrell ,8
+99,Cersei ,Qyburn ,3
+100,Cersei ,Aurane ,3
+101,Cersei ,Waters ,4
+102,Cersei ,Merryweather ,4
+103,Cersei ,Dorcas ,3
+104,Cersei ,Sweet ,5
+105,Tommen ,Joffrey ,3
+106,Tommen ,Myrcella ,4
+107,Tommen ,Margaery ,8
+108,Tommen ,Tyrell ,6
+109,Daenerys ,Aegon ,3
+110,Daenerys ,Barristan ,10
+111,Daenerys ,Irri ,3
+112,Daenerys ,Targaryen ,36
+113,Daenerys ,Connington ,3
+114,Daenerys ,Missandei ,4
+115,Daenerys ,Hizdahr ,3
+116,Daenerys ,Quentyn ,6
+117,Dany ,Rhaegar ,3
+118,Dany ,Barristan ,5
+119,Dany ,Irri ,3
+120,Dany ,Ben ,4
+121,Dany ,Missandei ,4
+122,Dany ,Daario ,5
+123,Dany ,Reznak ,5
+124,Dany ,Hizdahr ,3
+125,Illyrio ,Tyrion ,6
+126,Illyrio ,Mopatis ,3
+127,Rhaegar ,Jorah ,3
+128,Rhaegar ,Lyanna ,3
+129,Rhaegar ,Targaryen ,4
+130,Rhaegar ,Frey ,3
+131,Aegon ,Jaime ,3
+132,Aegon ,Rhaenys ,3
+133,Aegon ,Targaryen ,4
+134,Jorah ,Tyrion ,4
+135,Jorah ,Mormont ,15
+136,Jaime ,Tywin ,3
+137,Jaime ,Edmure ,5
+138,Jaime ,Renly ,9
+139,Jaime ,Varys ,4
+140,Jaime ,Ilyn ,13
+141,Jaime ,Margaery ,5
+142,Jaime ,Vargo ,4
+143,Jaime ,Tully ,6
+144,Jaime ,Lannister ,16
+145,Jaime ,Payne ,3
+146,Jaime ,Tyrell ,3
+147,Jaime ,Frey ,7
+148,Jaime ,Ronnet ,7
+149,Jaime ,Brienne ,9
+150,Jaime ,Pia ,3
+151,Jaime ,Osmund ,4
+152,Jaime ,Kettleblack ,5
+153,Jaime ,Red Ronnet ,6
+154,Jaime ,Peck ,3
+155,Jaime ,Dick ,5
+156,Jaime ,Nimble Dick ,4
+157,Sandor ,Clegane ,16
+158,Tyrion ,Tywin ,6
+159,Tyrion ,Myrcella ,3
+160,Tyrion ,Varys ,3
+161,Tyrion ,Lannister ,20
+162,Tyrion ,Mormont ,4
+163,Tyrion ,Griff ,9
+164,Tyrion ,Haldon ,9
+165,Tyrion ,Lemore ,3
+166,Tyrion ,Penny ,11
+167,Tyrion ,Halfmaester ,3
+168,Balon ,Baelor ,3
+169,Balon ,Loras ,4
+170,Balon ,Greyjoy ,10
+171,Balon ,Tyrell ,3
+172,Balon ,Swann ,10
+173,Balon ,Storm ,5
+174,Tywin ,Kevan ,3
+175,Tywin ,Lannister ,42
+176,Tywin ,Merryweather ,4
+177,Joffrey ,Dontos ,3
+178,Myrcella ,Arys ,5
+179,Edmure ,Tully ,8
+180,Edmure ,Blackfish ,4
+181,Arthur ,Dayne ,4
+182,Lew ,Little Lew ,5
+183,Aemon ,Stannis ,3
+184,Aemon ,Targaryen ,5
+185,Aemon ,Gilly ,6
+186,Barristan ,Selmy ,26
+187,Barristan ,Belwas ,3
+188,Barristan ,Daario ,3
+189,Barristan ,Skahaz ,3
+190,Barristan ,Hizdahr ,6
+191,Boros ,Blount ,10
+192,Boros ,Osmund ,4
+193,Walder ,Frey ,12
+194,Walder ,Rivers ,4
+195,Walder ,Edwyn ,4
+196,Walder ,Big Walder ,12
+197,Walder ,Little Walder ,17
+198,Walder ,Black Walder ,6
+199,Stannis ,Wyman ,4
+200,Stannis ,Snow ,6
+201,Stannis ,Baratheon ,39
+202,Stannis ,Davos ,3
+203,Stannis ,Melisandre ,8
+204,Stannis ,Devan ,4
+205,Stannis ,Ramsay ,3
+206,Renly ,Margaery ,3
+207,Renly ,Baratheon ,3
+208,Renly ,Brienne ,4
+209,Renly ,Dick ,3
+210,Renly ,Nimble Dick ,3
+211,Petyr ,Baelish ,16
+212,Irri ,Jhiqui ,15
+213,Alyn ,Ramsay ,4
+214,Alyn ,Sour Alyn ,10
+215,Baelor ,Blacktyde ,5
+216,Ilyn ,Payne ,6
+217,Aron ,Santagar ,3
+218,Loras ,Tyrell ,15
+219,Loras ,Swann ,3
+220,Loras ,Osmund ,5
+221,Grenn ,Pyp ,3
+222,Alliser ,Thorne ,8
+223,Donal ,Noye ,3
+224,Cotter ,Pyke ,16
+225,Bowen ,Othell ,4
+226,Bowen ,Marsh ,37
+227,Mace ,Randyll ,3
+228,Mace ,Tyrell ,43
+229,Mace ,Tarly ,3
+230,Galbart ,Greyjoy ,3
+231,Wyman ,Manderly ,16
+232,Wyman ,Davos ,5
+233,Wyman ,Whoresbane ,3
+234,Yohn ,Royce ,6
+235,Yohn ,Bronze Yohn ,18
+236,Denys ,Mallister ,3
+237,Jeyne ,Poole ,4
+238,Jeyne ,Farman ,4
+239,Jeyne ,Melara ,3
+240,Syrio ,Forel ,4
+241,Hugh ,Hungerford ,4
+242,Samwell ,Tarly ,5
+243,Randyll ,Tyrell ,3
+244,Randyll ,Tarly ,17
+245,Randyll ,Brienne ,3
+246,Mathis ,Rowan ,3
+247,Janos ,Slynt ,11
+248,Margaery ,Tyrell ,13
+249,Margaery ,Megga ,3
+250,Margaery ,Taena ,3
+251,Beric ,Dondarrion ,9
+252,Jonos ,Bracken ,4
+253,Gregor ,Clegane ,8
+254,Hosteen ,Frey ,5
+255,Emmon ,Frey ,4
+256,Jalabhar ,Xho ,4
+257,Jalabhar ,Tallad ,3
+258,Jalabhar ,Lambert ,3
+259,Lothor ,Brune ,8
+260,Moon Boy ,Lancel ,8
+261,Moon Boy ,Osmund ,8
+262,Moon Boy ,Kettleblack ,9
+263,Lancel ,Kevan ,3
+264,Lancel ,Darry ,4
+265,Lancel ,Osmund ,11
+266,Lancel ,Kettleblack ,10
+267,Roose ,Bolton ,48
+268,Nestor ,Lyn ,3
+269,Nestor ,Royce ,8
+270,Mya ,Stone ,8
+271,Lyn ,Corbray ,9
+272,Albar ,Royce ,3
+273,Anya ,Waynwood ,3
+274,Mark ,Mullendore ,5
+275,Arys ,Oakheart ,12
+276,Arys ,Arianne ,5
+277,Kevan ,Lannister ,16
+278,Kevan ,Tyrell ,3
+279,Othell ,Marsh ,3
+280,Othell ,Yarwyck ,11
+281,Robin ,Hop-Robin ,7
+282,Robin ,Horse ,3
+283,Robett ,Glover ,7
+284,Tytos ,Blackwood ,3
+285,Addam ,Marbrand ,9
+286,Gyles ,Rosby ,5
+287,Gyles ,Terrance ,4
+288,Dontos ,Hollard ,3
+289,Doran ,Martell ,21
+290,Doran ,Arianne ,3
+291,Pate ,Walgrave ,3
+292,Mirri ,Maz Duur ,3
+293,Podrick ,Payne ,9
+294,Podrick ,Brienne ,10
+295,Podrick ,Cedric ,3
+296,Podrick ,Hyle ,6
+297,Podrick ,Meribald ,4
+298,Garth ,Tyrell ,3
+299,Harys ,Swyft ,13
+300,Forley ,Prester ,3
+301,Amory ,Lorch ,3
+302,Royce ,Bronze Yohn ,5
+303,Stark ,Tully ,3
+304,Stark ,Bolton ,3
+305,Stark ,Ned ,12
+306,Rayder ,Tormund ,3
+307,Snow ,Baratheon ,3
+308,Snow ,Bran ,3
+309,Snow ,Ramsay ,4
+310,Greyjoy ,Baratheon ,3
+311,Greyjoy ,Dagon ,4
+312,Lannister ,Tyrell ,3
+313,Martell ,Arianne ,9
+314,Martell ,Quentyn ,16
+315,Reed ,Meera ,9
+316,Reed ,Jojen ,4
+317,Selmy ,Skahaz ,3
+318,Payne ,Brienne ,3
+319,Tyrell ,Tarly ,3
+320,Tyrell ,Swann ,3
+321,Tyrell ,Megga ,3
+322,Pyke ,Longwater ,5
+323,Marsh ,Yarwyck ,6
+324,Manderly ,Bolton ,4
+325,Manderly ,Davos ,3
+326,Slynt ,Emmett ,3
+327,Frey ,Aenys ,3
+328,Frey ,Edwyn ,4
+329,Frey ,Little Walder ,3
+330,Bolton ,Ramsay ,14
+331,Bolton ,Reek ,4
+332,Corbray ,Lyonel ,4
+333,Hunter ,Young Lord Hunter ,5
+334,Ryswell ,Roger ,3
+335,Dustin ,Barbrey ,4
+336,Flowers ,Knight of Flowers ,14
+337,Flowers ,Franklyn ,5
+338,Flowers ,The Knight ,5
+339,Karstark ,Alys ,5
+340,Karstark ,Arnolf ,15
+341,Flint ,Old Flint ,4
+342,Umber ,Mors ,6
+343,Swyft ,Jocelyn ,5
+344,Bran ,Hodor ,8
+345,Bran ,Meera ,11
+346,Bran ,Jojen ,3
+347,Bran ,Leaf ,3
+348,Hodor ,Meera ,4
+349,Hodor ,Jojen ,4
+350,Knight of Flowers ,The Knight ,5
+351,Davos ,Seaworth ,9
+352,Salladhor ,Saan ,9
+353,Axell ,Florent ,9
+354,Jaqen ,H'ghar ,4
+355,Gorold ,Goodbrother ,5
+356,Xaro ,Xhoan Daxos ,4
+357,Meera ,Jojen ,10
+358,Ronnet ,Red Ronnet ,10
+359,Brienne ,Dick ,4
+360,Brienne ,Hyle ,4
+361,Brienne ,Meribald ,3
+362,Lucas ,Codd ,4
+363,Lucas ,Left-Hand Lucas ,9
+364,Quhuru ,Mo ,6
+365,Quhuru ,Xhondo ,3
+366,Myles ,Toyne ,6
+367,Osmund ,Kettleblack ,22
+368,Osney ,Osfryd ,3
+369,Osney ,Kettleblack ,11
+370,Symon ,Marselen ,3
+371,Symon ,Stripeback ,6
+372,Ben ,Plumm ,11
+373,Ben ,Brown Ben Plumm ,11
+374,Ben ,Ben Bones ,7
+375,Belwas ,Strong Belwas ,29
+376,Belwas ,Strong ,30
+377,Aurane ,Waters ,12
+378,Ramsay ,Reek ,13
+379,Ramsay ,Skinner ,3
+380,Ramsay ,Sour Alyn ,4
+381,Farring ,Godry ,4
+382,Botley ,Tristifer ,5
+383,Botley ,Germund ,3
+384,Tollett ,Dolorous Edd ,6
+385,Mo ,Xhondo ,3
+386,Mo ,Kojja Mo ,8
+387,Harlaw ,Hotho ,5
+388,Harlaw ,Sigfryd ,3
+389,Big Walder ,Little Walder ,4
+390,Giant ,Goghor ,3
+391,Whoresbane ,Stout ,3
+392,The Green ,The Green Grace ,10
+393,Strong Belwas ,Strong ,30
+394,Kedge ,Whiteye ,3
+395,Megga ,Elinor ,3
+396,Taena ,Merryweather ,3
+397,Tormund ,Giantsbane ,17
+398,Tormund ,Wun ,3
+399,Richard ,Horpe ,5
+400,Hal ,Hairy Hal ,3
+401,Tom ,Barleycorn ,3
+402,Ulmer ,Ulmer of the Kingswood ,4
+403,Dick ,Crabb ,3
+404,Dick ,Straw ,12
+405,Dick ,Nimble Dick ,33
+406,Dick ,Yellow Dick ,8
+407,Bill ,Bone ,4
+408,Bill ,Old Bill Bone ,4
+409,Terrence ,Toyne ,3
+410,Arron ,Satin ,3
+411,Arron ,Emrick ,3
+412,Ellaria ,Sand ,6
+413,Anders ,Yronwood ,4
+414,Daario ,Naharis ,15
+415,Satin ,Emrick ,3
+416,Satin ,Horse ,4
+417,Owen ,Merryweather ,3
+418,Maelys ,Maelys the Monstrous ,4
+419,Hop-Robin ,Horse ,3
+420,Emmett ,Iron Emmett ,16
+421,Damon ,Skinner ,5
+422,Obara ,Sand ,6
+423,Orton ,Merryweather ,6
+424,Jack ,Bulwer ,6
+425,Jack ,Black Jack Bulwer ,6
+426,Roone ,Mollander ,5
+427,Bulwer ,Black Jack Bulwer ,6
+428,Sand ,Arianne ,3
+429,Yronwood ,Archibald ,4
+430,Plumm ,Brown Ben Plumm ,11
+431,Orkwood ,Orkwood of Orkmont ,4
+432,Tawney ,Lenwood ,3
+433,Tawney ,Little Lenwood Tawney ,3
+434,Peake ,Laswell ,3
+435,Kenning ,Ralf ,7
+436,Massey ,Justin ,10
+437,Massey ,Horpe ,6
+438,Merry ,The Merry ,3
+439,Griff ,Harry ,4
+440,Griff ,Ysilla ,5
+441,Griff ,Haldon ,3
+442,Griff ,Lemore ,4
+443,Griff ,Yandry ,6
+444,Griff ,Duck ,7
+445,Horse ,Rory ,3
+446,Jocelyn ,Dorcas ,6
+447,Illifer ,Creighton ,6
+448,Ternesio ,Terys ,3
+449,Lambert ,Turnberry ,3
+450,Gretchel ,Maddy ,6
+451,Symond ,Templeton ,4
+452,Melara ,Hetherspoon ,3
+453,Hyle ,Meribald ,3
+454,Hyle ,Hunt ,13
+455,Clarence ,Crabb ,4
+456,Nute ,Ralf ,3
+457,Ralf ,Stonehouse ,4
+458,Ralf ,Red Ralf Stonehouse ,4
+459,Lenwood ,Little Lenwood Tawney ,3
+460,Erik ,Ironmaker ,3
+461,Harry ,Strickland ,12
+462,Sylva ,Arianne ,3
+463,Sylva ,Spotted Sylva ,6
+464,Garin ,Arianne ,3
+465,Cletus ,Quentyn ,3
+466,Dagon ,Codd ,3
+467,Talea ,Brea ,3
+468,Roggo ,Red Roggo ,3
+469,Morra ,Mellei ,4
+470,Moelle ,Unella ,4
+471,Moelle ,Scolera ,5
+472,Unella ,Scolera ,4
+473,Clayton ,Suggs ,7
+474,Godry ,Giantslayer ,4
+475,Corliss ,Penny ,5
+476,Ygon ,Harle ,4
+477,Ysilla ,Yandry ,9
+478,Stalwart ,Mollono ,3
+479,Stalwart ,Shield ,5
+480,Reznak ,Skahaz ,6
+481,Reznak ,Hizdahr ,4
+482,Reznak ,mo Reznak ,34
+483,Reznak ,Shavepate ,4
+484,Skahaz ,Hizdahr ,4
+485,Skahaz ,mo Kandaq ,5
+486,Skahaz ,Shavepate ,9
+487,Galazza ,Galare ,12
+488,Hizdahr ,Marghaz ,4
+489,Hizdahr ,zo Loraq ,30
+490,Gerris ,Quentyn ,8
+491,Gerris ,Drinkwater ,12
+492,Haldon ,Halfmaester ,10
+493,Haldon ,Duck ,6
+494,Lomas ,Longstrider ,3
+495,Barsena ,Barsena Blackhair ,4
+496,Goghor ,Belaquo ,3
+497,Yandry ,Duck ,5
+498,Malaquo ,Nyessos ,4
+499,Wick ,Whittlestick ,4
+500,Qezza ,Grazhar ,3
+501,Balaq ,Black Balaq ,4
+502,Caggo ,Meris ,3
+503,Yurkhaz ,Yezzan ,3
+504,Yurkhaz ,zo Yunzak ,9
+505,Yezzan ,Nurse ,3
+506,Yezzan ,zo Qaggaz ,6
+507,Denzo ,D'han ,5
+508,Meris ,Pretty Meris ,10
+509,Leathers ,Wun ,4
+510,Wun ,Weg Wun Dar Wun ,9
+511,Wun ,Wun Wun ,24
+512,Brus ,Malegorn ,3
+513,Tycho ,Nestoris ,3
+514,Soren ,Shieldbreaker ,4
+515,Gerrick ,Kingsblood ,3
+516,Harle ,Gavin ,3
+517,Howd ,Wanderer ,3
+518,Quentyn ,Drinkwater ,3
+519,Codd ,Left-Hand Lucas ,4
+520,Stonehouse ,Red Ralf Stonehouse ,4
+521,Bone ,Old Bill Bone ,4
+522,Liddle ,Big Liddle ,4
+523,Norrey ,The Norrey ,5
